@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: azure;    
+    padding: 10px;
+    margin: 0px auto;
+    width: 600px;
+    height: 600px;
+      
+}
+
+#content{    
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    flex-direction: row;                
+}
+#square{
+    border: 1px black solid;
+    background-color: whitesmoke;
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+    margin: 0px auto;
+    position: relative;
+}
+input{
+    width: 50px;    
+    position: relative;
+    padding: 5px;
+    margin: 5px;
+    
+}
