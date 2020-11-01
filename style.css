@@ -9,24 +9,37 @@ body{
 }
 
 #content{    
-    width: 500px;
+    width: 400px;
     height: 500px;
-    margin: 0 auto;
-    flex-direction: row;                
+    margin: 0 auto; 
+    flex-direction: row; 
+    
 }
 #square{
     border: 1px black solid;
     background-color: whitesmoke;
     width: 350px;
     height: 350px;
-    padding: 10px;
-    margin: 0px auto;
-    position: relative;
+    margin-left: 10px;            
+    float: left;
+ 
 }
-input{
-    width: 50px;    
-    position: relative;
-    padding: 5px;
-    margin: 5px;
+input[type=number]{    
+    width: 50px;
     
+}
+input[type=radio]{        
+    width: 10px;    
+    margin-left: 40px;            
+}
+
+
+.groupButtons{
+    width: 150px;
+    text-align: right;
+    padding: 5px;
+    position: relative;
+    float: left;
+    flex-direction: column;
+    margin-right: 20px;
 }
