@@ -1,0 +1,2 @@
+# Border-radiusPreviewer
+Programming studies project with JS  Border-Radius Previewer project removed from the app ideas repository https://github.com/florinpop17/app-ideas, the idea of this APP is to create an interface where the user can change the values of the CSS border-radius properties and be designed an element from these properties when changed.  In implementing the use of JS and HTML and CSS, a project is very simplistic, the main idea is to study concepts of CSS manipulation through JS.
